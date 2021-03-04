@@ -1,3 +1,10 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+
+# (c) Guillaume Michel
+# https://github.com/guillaumemichel/icao-nnumber_converter
+# Licensed under Gnu Public License GPLv3.
+
 import sys
 from math import pow
 
